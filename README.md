@@ -13,7 +13,8 @@ This repo have somes Ruby's script that help you to save Sketchup's files at pre
      -Thx to jim.foltz@gmail.com. To Use Go to File ➜ Jf Save As ➜ Choose your version
      - https://github.com/jpa38/sketchup-save-as-previous-version/tree/main/jf_save_as_menu
 4. `save-skp-as`, 
-   - Thx to thomthom. You can convert files to older version. (https://github.com/thomthom/save-skp-as)
+   - Thx to thomthom. You can convert files to older version.
+   - https://github.com/thomthom/save-skp-as
    
 ---
 
