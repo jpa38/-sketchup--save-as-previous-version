@@ -1,4 +1,4 @@
-# jpa_save_as_2018.rb
+# jpa_save_as_2018
 
 ## How to use
 
