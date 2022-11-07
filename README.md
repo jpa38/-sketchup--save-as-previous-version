@@ -3,10 +3,18 @@
 
 This repo have somes Ruby's script that help you to save Sketchup's files at previous version :
 
-1. `jpa_save_as_2018`, to save go to File ➜ SaveAs..2018 (First manually save on disk mandatory)
-2. `jpa_save_as_2018_auto`, to save just go to File ➜ Save or press Ctrl+S. Install and forget this extension ! (First manually save on disk mandatory)
-3. `jf_save_as_menus`, Thx to jim.foltz@gmail.com. To Use Go to File ➜ Jf Save As ➜ Choose your version
-4. `save-skp-as`, Thx to thomthom. You can convert files to older version. (https://github.com/thomthom/save-skp-as)
+1. `jpa_save_as_2018`, 
+   - to save go to File ➜ SaveAs..2018 (First manually save on disk mandatory)
+   - https://github.com/jpa38/sketchup-save-as-previous-version/tree/main/jpa_save_as_2018
+2. `jpa_save_as_2018_auto`,
+   - to save just go to File ➜ Save or press Ctrl+S. Install and forget this extension ! (First manually save on disk mandatory)
+   - https://github.com/jpa38/sketchup-save-as-previous-version/tree/main/jpa_save_as_2018_auto
+3. `jf_save_as_menus`, 
+     -Thx to jim.foltz@gmail.com. To Use Go to File ➜ Jf Save As ➜ Choose your version
+     - https://github.com/jpa38/sketchup-save-as-previous-version/tree/main/jf_save_as_menu
+4. `save-skp-as`, 
+   - Thx to thomthom. You can convert files to older version. (https://github.com/thomthom/save-skp-as)
+   
 ---
 
 ## Why this extension ?
